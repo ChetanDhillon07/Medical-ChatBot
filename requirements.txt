@@ -9,5 +9,7 @@ langchain_community==0.3.26
 ipykernel
 langchain_huggingface
 pinecone
+gunicorn
 
 -e.
+
